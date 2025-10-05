@@ -1,0 +1,10 @@
+node_modules/
+old/  
+.env.local
+.env
+.next/
+cert/
+# Local Netlify folder
+.netlify
+
+payroll/
