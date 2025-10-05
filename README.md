@@ -7,7 +7,8 @@
 **Images**:
 ![WhatsApp Image 2025-10-05 at 19 34 01_7521a976](https://github.com/user-attachments/assets/e983c8f1-b176-4fea-9044-af5217ca22a6)
 ![WhatsApp Image 2025-10-05 at 19 21 56_456f4d42](https://github.com/user-attachments/assets/3bb9fa03-d4a6-4feb-b7eb-0fee9438042c)
-<img width="984" height="557" alt="image" src="https://github.com/user-attachments/assets/ded70c80-e15b-4a31-80e7-c1b2c317e7c9" />
+<img width="1136" height="658" alt="image" src="https://github.com/user-attachments/assets/9a77f28f-bc14-4836-841a-d02c2b093418" />
+
 ![WhatsApp Image 2025-10-05 at 19 30 08_dc3b59f5](https://github.com/user-attachments/assets/6c094621-afe9-44f1-ac38-7b7bbd3cd4d3)
 
 
