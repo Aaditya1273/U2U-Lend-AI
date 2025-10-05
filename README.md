@@ -4,6 +4,13 @@
 
 **One-Liner**: U2U-Lend AI: A stablecoin-first DeFi lending protocol on LINE Mini Dapp, powered by U2U DAG for instant yields and Claude 4 AI agents in AWS Nitro TEE—onboarding Asian users with secure, personality-driven strategies.
 
+**Images**:
+![WhatsApp Image 2025-10-05 at 19 34 01_7521a976](https://github.com/user-attachments/assets/e983c8f1-b176-4fea-9044-af5217ca22a6)
+![WhatsApp Image 2025-10-05 at 19 21 56_456f4d42](https://github.com/user-attachments/assets/3bb9fa03-d4a6-4feb-b7eb-0fee9438042c)
+![WhatsApp Image 2025-10-05 at 19 22 26_ff456435](https://github.com/user-attachments/assets/14d367f1-93e8-4ecc-8beb-8cf41e7dc0dd)
+![WhatsApp Image 2025-10-05 at 19 30 08_dc3b59f5](https://github.com/user-attachments/assets/6c094621-afe9-44f1-ac38-7b7bbd3cd4d3)
+
+
 ## 🎯 Project Goals & Features
 
 U2U-Lend AI solves DeFi's onboarding barriers and latency issues by forking Compound V2 for battle-tested lending, integrated with U2U's DAG for <1s txns. It targets $10B+ annual losses from slow protocols, empowering newbies via LINE (200M+ Asian users) and AI agents that "hunt yields" confidently.
