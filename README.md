@@ -1,4 +1,4 @@
-# U2U-Lend AI: Gamified DeFi Lending Protocol on U2U DAG
+# U2U-Lend AI: Gamified DeFi Lending Protocol on U2U DAG:
 
 [![U2U Network](https://img.shields.io/badge/U2U-DAG%20Native-blue?logo=ethereum)](https://u2u.network) [![VietBUIDL 2025](https://img.shields.io/badge/VietBUIDL-2025-orange)](https://hackquest.io/hackathons/vietbuild) [![AI-DeFi Hybrid](https://img.shields.io/badge/AI%20%2B%20DeFi-green)](https://docs.u2u.xyz)
 
